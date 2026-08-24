@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {Plunder.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 37060,
     "version": "",
     "try-creative": false
   },
